@@ -1,0 +1,13 @@
+{
+  "Total Cost": 20000.0,
+  "List of pf": [
+    "admin2.json"
+  ],
+  "End Date": "2023-02-01",
+  "Commission": 10.0,
+  "Weight Map": {
+    "V": 40.0,
+    "TSLA": 60.0
+  },
+  "Period": 50
+}
